@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\bin\Debug\netcoreapp3.1\dictionaryLab.exe
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\bin\Debug\netcoreapp3.1\dictionaryLab.deps.json
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\bin\Debug\netcoreapp3.1\dictionaryLab.runtimeconfig.json
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\bin\Debug\netcoreapp3.1\dictionaryLab.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\bin\Debug\netcoreapp3.1\dictionaryLab.dll
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\bin\Debug\netcoreapp3.1\dictionaryLab.pdb
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.AssemblyInfo.cs
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.dll
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.pdb
+C:\Users\yashi\source\repos\dictionaryLab\dictionaryLab\obj\Debug\netcoreapp3.1\dictionaryLab.genruntimeconfig.cache
